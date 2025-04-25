@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b); 
+    margin: 0; 
+    height: 100vh; 
+    align-items: auto; 
+    justify-content: auto; 
+}
+
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #4CAF50;
+}
+
+footer {
+    background-color: #07b616; 
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+
+footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px 0; /* Aumentar el padding para más espacio */
+    margin-top: 20px; /* Añadir margen superior */
+}
+
+footer h4 {
+    margin: 0;
+}
+
+footer ul {
+    list-style-type: none; /* Eliminar los puntos de la lista */
+    padding: 0; /* Eliminar el padding por defecto */
+    display: flex; /* Usar flexbox para la alineación horizontal */
+    justify-content: center; /* Centrar los elementos dentro del footer */
+}
+
+footer ul li {
+    margin: 0 10px; /* Espaciado entre íconos */
+}
+
+footer img {
+    vertical-align: middle; /* Alinear imágenes con el texto */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
